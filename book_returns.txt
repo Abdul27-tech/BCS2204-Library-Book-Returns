@@ -1,0 +1,10 @@
+1001|Introduction to Programming|John Peter|2026-11-05
+1002|Data Structures|Mary Grace|2026-11-05
+1003|Database Systems|David James|2026-11-06
+1004|Computer Networks|Sarah Jane|2026-11-06
+1005|Operating Systems|Paul Mark|2026-11-07
+1006|Artificial Intelligence|Esther Rose|2026-11-07
+1007|Software Engineering|Daniel John|2026-11-08
+1008|Web Development|Grace Allen|2026-11-09
+1009|Computer Security|Michael Paul|2026-11-10
+1010|Digital Logic|Rebecca Anne|2026-11-11

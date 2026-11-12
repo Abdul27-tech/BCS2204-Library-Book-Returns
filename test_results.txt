@@ -1,0 +1,20 @@
+PASS: empty structure boundary
+PASS: one record insertion
+PASS: duplicate return ID rejected
+PASS: records including duplicate title inserted
+PASS: search existing ID
+PASS: search absent ID
+PASS: deep copy uses separate nodes
+PASS: copy can change without changing original
+PASS: remove first record
+PASS: remove last record
+PASS: remove missing record safely
+PASS: remove only remaining record
+PASS: insertion sort on already sorted input
+PASS: random-pivot quicksort on reversed input
+PASS: binary search existing key
+PASS: binary search absent key
+PASS: binary search empty array
+PASS: load ten sample records
+PASS: save records to text file
+TOTAL: 19/19 checks passed
